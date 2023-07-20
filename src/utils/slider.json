@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Product 1",
+    "price": "47,043",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p3.jpg"
+  },
+  {
+    "name": "Product 2",
+    "price": "66,353",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p4.jpg"
+  },
+  {
+    "name": "Product 3",
+    "price": "35,853",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p5.jpg"
+  },
+  {
+    "name": "Product 4",
+    "price": "47,043",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p6.jpg"
+  },
+  {
+    "name": "Product 5",
+    "price": "66,353",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p7.jpg"
+  },
+  {
+    "name": "Product 6",
+    "price": "35,853",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "./images/p8.jpg"
+  }
+]
